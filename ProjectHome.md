@@ -1,0 +1,1 @@
+3Dyanmics is a 3D Modeling, Shading and Simulation tool. The idea of the project is to create 3D scenes with textures, shaders, lights and simulation in real time. The project is still under development and not all of the features mentioned above are perfectly working.
